@@ -12,12 +12,12 @@ public class Question3
      
     Scanner in = new Scanner(System.in); // Creating scanner object "in"
     
-    System.out.print("Enter number: ");
+    System.out.print("");
     double num = in.nextInt(); // Asssigning enterred user value into "num"
 
     num = num * num;
 
-    System.out.print("Result is " + num);
+    System.out.print(num);
     
   }
 }

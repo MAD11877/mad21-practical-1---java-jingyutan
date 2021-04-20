@@ -27,6 +27,12 @@ public class Question5
      */
      
     Scanner in = new Scanner(System.in);
+    System.out.print("Enter number: ");
+    int num = in.nextInt();
+
     
+    
+
+
   }
 }
