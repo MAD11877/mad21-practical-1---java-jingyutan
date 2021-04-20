@@ -13,7 +13,7 @@ public class Question4
      for (int x = num; x >= i; x--){
        System.out.print("*");
      }
-     System.out.println(" ");
+     System.out.println("");
 
 
    }
