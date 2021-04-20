@@ -16,7 +16,7 @@ public class Question2
     double weight = in.nextDouble(); // Asssigning enterred user value into "weight"
     
     
-    System.out.print("Enter height in cm: ");
+    System.out.print("Enter height in m: ");
     double height = in.nextDouble(); // Assigning entered user value into "height"
     
     double BMI = weight / (height * height);
