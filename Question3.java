@@ -12,7 +12,7 @@ public class Question3
      
     Scanner in = new Scanner(System.in); // Creating scanner object "in"
     
-    System.out.print("");
+    System.out.print(" ");
     int num = in.nextInt(); // Asssigning enterred user value into "num"
 
     num = num * num;
