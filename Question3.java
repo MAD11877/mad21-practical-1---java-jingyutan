@@ -16,7 +16,6 @@ public class Question3
     int num = in.nextInt(); // Asssigning enterred user value into "num"
 
     num = num * num;
-
     System.out.print(num);
     
   }
